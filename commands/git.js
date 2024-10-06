@@ -1,8 +1,4 @@
 const { SlashCommandBuilder } = require("discord.js")
-const { EmbedBuilder, AttachmentBuilder } = require('discord.js');
-
-const file = new AttachmentBuilder('../assets/git.png');
-
 
 const exampleEmbed = {
 	color: 0x000000,
