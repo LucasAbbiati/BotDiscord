@@ -36,7 +36,7 @@ module.exports = {
       try {
         await interaction.guild.members.kick(userToKick, { motivo });
         await interaction.reply(
-          `Usuário ${userToKick.tag} foi banido por: ${motivo}`
+          `Usuário ${userToKick.tag} foi kickado por: ${motivo}`
         );
       } catch (error) {
         console.error(error);
