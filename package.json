@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "name": "botdiscord",
+  "description": "Bot para discord usando JavaScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasAbbiati/BotDiscord.git"
+  },
+  "keywords": [
+    "bot-discord"
+  ],
+  "author": "Lucas Abbiati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasAbbiati/BotDiscord/issues"
+  },
+  "homepage": "https://github.com/LucasAbbiati/BotDiscord#readme"
+}
